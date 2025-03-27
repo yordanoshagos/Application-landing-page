@@ -35,7 +35,7 @@
     margin-left: 23%;
     gap:7%;
     margin-top: -1.5%;
-    font-family: vision;
+    font-family: poppins;
     font-size: 120%;
 }
 #login{
@@ -45,9 +45,11 @@
     background: #e9f7f6;
     cursor: pointer;
     margin-top: -2%;
+    font-family: poppins;
     }
     #signup{
         padding:2.2% 4%;
+        font-family: poppins;
         border-radius: 35px;
         background: linear-gradient(to right, #FA8072, #FF00FF);
         color: white;
